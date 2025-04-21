@@ -23,3 +23,6 @@ console.log(personAge);
 console.log(person.'favourite places'); // Error
 
 console.log(person['favorite places']);
+
+const keyName = 'profession';
+console.log(person[keyName]);
